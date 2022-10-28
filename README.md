@@ -1,0 +1,2 @@
+# clikPhotos
+Automatic Photo Editing
